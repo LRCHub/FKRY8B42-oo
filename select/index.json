@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハルウタ",
+  "base_artist": "いきものがかり",
+  "createdAt": "2026-02-14T15:28:57.656481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルウタ",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_ハルウタ_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルウタ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_ハルウタ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルウタ",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/03_ハルウタ_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハルウタ - Haruuta",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/04_ハルウタ_-_Haruuta_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "02.ハルウタ -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_02.ハルウタ_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルウタ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_ハルウタ_いきものがかり.txt"
+    }
+  ]
+}
